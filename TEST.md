@@ -32,4 +32,4 @@
    > Se envian los bytes por que los sockets utilizan datos binarios
 
 10. **Describe brevemente el flujo de datos: ¿Qué camino recorre la información desde que giras el potenciómetro físicamente hasta que la barra se mueve en la pantalla de la computadora?**
-    > El potenciometro envia un valor a ESP32 mandandolo por via red mediante sockets, para que lo pueda recibir la computadora y que s epueda actualizar la barra en Tkinter
+    > El potenciometro envia un valor a ESP32 mandandolo por via red mediante sockets, para que lo pueda recibir la computadora y que se pueda actualizar la barra en Tkinter
