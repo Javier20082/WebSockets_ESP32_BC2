@@ -17,7 +17,7 @@
 4. **¿Cuál es la diferencia entre un "Servidor" (Hardware/Software) y un "Servicio" (Service)?**
    > Un servidor es quien ejecuta el sistema y el servicio es la función que se llega a realizar
 5. **Investigación: ¿Cuál es la diferencia técnica entre un "Socket TCP" normal y un "WebSocket"?**
-   > Webosocket ayuda ala comunicación en tiempo real sobre la web y TCP 
+   > Webosocket ayuda ala comunicación en tiempo real sobre la web y TCP es una conexión directa a los datos
 
 6. **Analizando nuestro código: ¿Quién actúa como Servidor y quién actúa como Cliente? (Justifica tu respuesta mencionando qué funciones del código lo demuestran, ej. `bind()`, `connect()`).**
    > ESP32 es el servidor y el cliente el dispositivo porque utilizamos conectar y para realizr la conexión
